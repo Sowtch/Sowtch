@@ -5,7 +5,7 @@
 - 🔭 I study in computer science master and internship at Worldline!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw, read and play on Pokemon
+- ⚡ Fun fact: I love to draw, read and play video games
 
 
 ### Languages and Tools
