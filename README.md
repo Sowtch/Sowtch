@@ -3,9 +3,9 @@
 ### I'm a Computer Student, Developer, and Player!!
 
 - 🔭 I study in computer science master and internship at Worldline!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw, read and play video games
+- 🌱 I’m currently learning everything...
+- 👯 I’m looking to collaborate with other content creators.
+- ⚡ Fun fact: I love to read, play video games and pokémon!
 
 
 ### Languages and Tools
@@ -21,4 +21,4 @@
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[website]: https://twitter.com/Sowtch
+[website]: https://twitter.com/Nogtif_
