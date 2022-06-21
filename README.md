@@ -1,4 +1,4 @@
-## Hi there, I'm Quentin - aka [Sowtch][website] 👋
+## Hi there, I'm Quentin - aka [Nogtif][website] 👋
 
 ### I'm a Computer Student, Developer, and Player!!
 
