@@ -4,7 +4,6 @@
 
 - 🔭 I study in computer science master and internship at Worldline!
 - 🌱 I’m mainly develop NodeJS programs with technologies like Vue, React or Angular...
-- 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I love to read, play video games and pokémon!
 
 
