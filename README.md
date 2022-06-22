@@ -1,6 +1,6 @@
-## Hi there, I'm Quentin - aka [Nogtif][website] 👋
+## Hi there, I'm Quentin 👋
 
-### I'm a Computer Student, Developer, and Player!!
+### I'm a Computer Student, Developer, and Player!
 
 - 🔭 I study in computer science master and internship at Worldline!
 - 🌱 I’m mainly develop NodeJS programs with technologies like Vue, React or Angular...
